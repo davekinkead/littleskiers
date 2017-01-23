@@ -4,8 +4,8 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-  <title>About Me | Little Skiers</title>
-  <meta name="description" content="About Me - Little Skiers - A ski instructor mum&#39;s guide to skiing with kids." />
+  <title>Little Skiers</title>
+  <meta name="description" content=" - Little Skiers - A ski instructor mum&#39;s guide to skiing with kids." />
 
   <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -15,7 +15,7 @@
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 
 </head>
-  <body class="page">
+  <body class="post-page">
 
 <header class="main-header no-cover" style="background-image: url(/) ">
   <nav class="main-nav overlay clearfix">
@@ -29,20 +29,22 @@
       <article class="post">
 
         <header class="post-header">
-          <h1 class="post-title">About Me</h1>
-        </header>
+          <h1 class="post-title"></h1>
+<section class="post-meta">
+  <img class="author-thumb" src="/pictures&#x2F;tina.jpg" alt="Author image" nopin="nopin">
+  <a href="/about-me">Tina Kinkead</a>
+  <span class="tags">
+    <a href="/posts/about/" class="tag"></a>
+  </span>
+  <time class="post-date" datetime=""></time>
+</section>        </header>
 
         <section class="post-content">
-          <p>Hi, I&#39;m Tina.</p>
-<p>I&#39;m a qualified ski instructor and mum of two litter skiers.  Originally from Scandinavia, I now split my time between Australia and Austria where my family is lucky enough to get 100+ days on the snow every year.</p>
-<p>My little snow monkeys have been skiing since they could walk and over the years, I&#39;ve learnt exactly what works and what doesn&#39;t when it comes to skiing with kids.</p>
-<p>Whenever I&#39;m trying to learn or do something new, I&#39;ve always been greatful for bloggers who&#39;ve shared their experiences with the world.  And now that I know a thing or two about skiing with young kids, I thought I should do the same.</p>
-<p>So subscribe below for regular tips and tricks that will make ski holidays with your family the joy it&#39;s supposed to be rather than the all-too-frequent exercise in expensive frustration it often is!</p>
-
+          
         </section>
 
         <section class="subscribe">
-          <h3>Subscribe for family ski tips sent straight to your inbox!</h3>
+          <h3>Like this post? Then subscribe for more!</h3>
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="//kinkead.us15.list-manage.com/subscribe/post?u=0b31ab9e51d655bb82e260c5a&amp;id=a2720eb07b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -67,19 +69,19 @@
 
         <footer class="post-footer">
           <figure class="author-image">
-            <a class="img" href="#" style="background-image: url(/pictures&#x2F;tina.jpg)"><span class="hidden">'s Picture</span></a>
+            <a class="img" href="/about-me" style="background-image: url(/pictures&#x2F;tina.jpg)"><span class="hidden">'s Picture</span></a>
           </figure>
 
 
 <section class="share">
   <h4>Share this post</h4>
-  <a class="icon-twitter" href="http://twitter.com/share?text=About Me&amp;url=http:&#x2F;&#x2F;littleskiiers.co/about-me" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+  <a class="icon-twitter" href="http://twitter.com/share?text=&amp;url=http:&#x2F;&#x2F;littleskiiers.co/Icon" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
   <span class="hidden">Twitter</span>
   </a>
-  <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http:&#x2F;&#x2F;littleskiiers.co/about-me" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+  <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http:&#x2F;&#x2F;littleskiiers.co/Icon" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
   <span class="hidden">Facebook</span>
   </a>
-  <a class="icon-google-plus" href="https://plus.google.com/share?url=http:&#x2F;&#x2F;littleskiiers.co/about-me" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+  <a class="icon-google-plus" href="https://plus.google.com/share?url=http:&#x2F;&#x2F;littleskiiers.co/Icon" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
   <span class="hidden">Google+</span>
   </a>
 </section>
